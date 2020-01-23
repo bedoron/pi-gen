@@ -1,0 +1,12 @@
+IMG_NAME=oraclepi
+HOSTNAME=oraclepi
+TARGET_HOSTNAME=oraclepi
+KEYBOARD_KEYMAP=us
+ENABLE_SSH=1
+STAGE_LIST="stage0 stage1 stage2 stage3orapi"
+LOCALE_DEFAULT=en_US.UTF-8
+KEYBOARD_KEYMAP=us
+
+WPA_COUNTRY=IL
+WPA_ESSID="Raspberry Pi Workshop"
+WPA_PASSWORD=""
